@@ -5,10 +5,10 @@ body {
 input#text-input {
     border: none;
     border-radius: 10px 0 0 10px;
-    width: 40%;
+    width: 30%;
     padding: 10px;
     position: relative;
-    left: 15%;
+    left: 25%;
     font-size: 1.3rem;
     outline: none;
 }
@@ -20,7 +20,7 @@ input#add {
     width: 5%;
     color: #ffffff;
     position: relative;
-    left: 14.8%;
+    left: 24.8%;
     outline: none;
     font-size: 1.3rem;
     border-radius: 0 10px 10px 0;
@@ -32,12 +32,12 @@ input#add:hover {
 
 #todo {
     background-color: white;
-    width: 45%;
+    width: 35%;
     padding: 10px;
     position: relative;
     border-radius: 10px;
     top: 10px;
-    left: 15%;
+    left: 25%;
 }
 
 #todo p {
