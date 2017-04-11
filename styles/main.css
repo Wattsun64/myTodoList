@@ -1,6 +1,10 @@
+/* Main Styles */
+
 body {
     background-color: #e2e2e2;
 }
+
+/* Text Input Styles */
 
 input#text-input {
     border: none;
@@ -12,6 +16,8 @@ input#text-input {
     font-size: 1.3rem;
     outline: none;
 }
+
+/* Add Button Styles */
 
 input#add {
     border: none;
@@ -30,6 +36,8 @@ input#add:hover {
     background-color: #6edc78;
 }
 
+/* List Container Styles */
+
 #todo {
     background-color: white;
     width: 35%;
@@ -47,6 +55,8 @@ input#add:hover {
     position: relative;
     left: 5%;
 }
+
+/* List Item Styles */
 
 p.line-through {
     text-decoration: line-through;
